@@ -1,4 +1,4 @@
-module github.com/tuotoo/qrcode
+module github.com/zdpdpdp/qrcode
 
 require (
 	github.com/google/uuid v1.1.0
